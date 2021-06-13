@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @030751
+- 👋 Hi, I’m hira firdous
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently doing computer engineering
 - 📫 How to reach me through my email hirafirdous9@gmail.com
