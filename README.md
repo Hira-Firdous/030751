@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @030751
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently doing computer engineering 
-- 💞️ I’m looking to collaborate on a art gallery management project (well in python)
+- 🌱 I’m currently doing computer engineering
 - 📫 How to reach me through my email hirafirdous9@gmail.com
 
 <!---
